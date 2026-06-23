@@ -1,0 +1,3 @@
+# Time4Bets
+
+Time4Bets is a mixed sportsbook and casino information platform.
